@@ -1,4 +1,4 @@
-/*! vsky fork
+/*!
  * Name          : steelseries.js
  * Authors       : Gerrit Grunwald, Mark Crossley
  * Last modified : 31.03.2015
